@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  zoom2
 //
-//  Created by Maria Susana Moline Venanzi on 11/22/16.
+//  Created by Rafa Aguirre on 11/22/16.
 //  Copyright © 2016 Uberbliss. All rights reserved.
 //
 
